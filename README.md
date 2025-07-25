@@ -14,9 +14,4 @@ This project implements a secure electronic voting protocol using Java for a cla
 - **RSA encryption and digital signatures** (asymmetric key cryptography)
 - **Java Swing** for GUI interface
 
-## Project Structure
-|-- AESUtil.java // AES encryption utilities
-|-- RSAUtil.java // RSA encryption and digital signature utilities
-|-- Voter.java // Class representing a voter
-|-- Vote.java // Class representing a vote
-|-- VotingApp.java // Main application (GUI interface)
+
